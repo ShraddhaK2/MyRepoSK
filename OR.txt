@@ -13,7 +13,7 @@
         <Property value="" ref="ng-model" pref="8"/>
         <Property value="" ref="ng-repeat" pref="9"/>
         <Property value="" ref="bing" pref="10"/>
-        <Property value="Enter your search term" ref="title" pref="11"/>
+        <Property value="Enter your search term" ref="title" pref="1001"/>
       </Object>
     </ObjectGroup>
     <ObjectGroup ref="SearchButton">
