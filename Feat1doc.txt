@@ -1,5 +1,5 @@
 feature file going to commit--feature branch change let me track
 
-i am updated from online user
+i am updated from local repo and not by an online user
 
-try and  test conflicts now
+try and  test conflicts please now
