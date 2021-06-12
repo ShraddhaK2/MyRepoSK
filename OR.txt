@@ -1,4 +1,4 @@
-<Root type="OR" ref="DemoProject">
+<Root type="OR" ref="DemoProjectSK">
   <Page title="" ref="Bing">
     <ObjectGroup ref="Enter your search term">
       <Object frame="" ref="Enter your search term">
